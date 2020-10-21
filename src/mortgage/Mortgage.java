@@ -56,5 +56,4 @@ public class Mortgage {
         System.out.println("Mortgage : " + mortgageFormatted);
     }
     
-    
 }
